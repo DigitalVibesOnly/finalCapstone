@@ -36,6 +36,8 @@ management quick and easy
 3. Follow the instructions provided by the program to register a user,
    add tasks, view all tasks, and generate reports.
 
+<img width="661" alt="Screenshot 2023-07-11 at 13 07 53" src="https://github.com/DigitalVibesOnly/finalCapstone/assets/138721768/585eba46-8abd-435d-b9a1-56b5d326f78b">
+
 ## Authors
 
 - Yvonne Ile <missyvonneile@gmail.com>
